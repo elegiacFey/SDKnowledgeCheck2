@@ -1,0 +1,15 @@
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/bin/Debug/net7.0/SDKnowledgeCheck2
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/bin/Debug/net7.0/SDKnowledgeCheck2.deps.json
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/bin/Debug/net7.0/SDKnowledgeCheck2.runtimeconfig.json
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/bin/Debug/net7.0/SDKnowledgeCheck2.dll
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/bin/Debug/net7.0/SDKnowledgeCheck2.pdb
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/obj/Debug/net7.0/SDKnowledgeCheck2.csproj.AssemblyReference.cache
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/obj/Debug/net7.0/SDKnowledgeCheck2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/obj/Debug/net7.0/SDKnowledgeCheck2.AssemblyInfoInputs.cache
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/obj/Debug/net7.0/SDKnowledgeCheck2.AssemblyInfo.cs
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/obj/Debug/net7.0/SDKnowledgeCheck2.csproj.CoreCompileInputs.cache
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/obj/Debug/net7.0/SDKnowledgeCheck2.dll
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/obj/Debug/net7.0/refint/SDKnowledgeCheck2.dll
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/obj/Debug/net7.0/SDKnowledgeCheck2.pdb
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/obj/Debug/net7.0/SDKnowledgeCheck2.genruntimeconfig.cache
+/Users/maya/Documents/codelouisville/Projects/SDKnowledgeCheck2/SDKnowledgeCheck2/SDKnowledgeCheck2/obj/Debug/net7.0/ref/SDKnowledgeCheck2.dll
